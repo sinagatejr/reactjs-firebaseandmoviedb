@@ -37,3 +37,32 @@ https://www.themoviedb.org/settings/api
 src-constants-App.js
 
 export const API_KEY = "";
+
+
+optional
+
+install axios
+npm install axios
+
+visual code extension
+es7 react/redux/graphql/react-native snippetrs
+
+install bootstrap
+npm i bootstrap react-bootstrap
+
+extension google chrome browser
+https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
+create project reactjs
+npx create-react-app react-app
+npm run start
+
+install axios
+npm install axios
+
+install express
+npm install express cors
+
+server run
+npx json-server --watch data/db.json --port 8000
+node server.js
